@@ -2,4 +2,5 @@
 ## 2nd heading
 ### 3rd heading 
 #### 4th heading (this soo tiny)
-Learned how to add add headers and added 4 headers in the file
+##### This is an image on Pikachu 
+![Pixel Pikachu](https://pics.craiyon.com/2024-09-16/KMjBzlgERsuyGKRCcrzPWg.webp)
