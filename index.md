@@ -12,3 +12,7 @@ int main(){
     cout<<"HELLO WORLD"<<endl;
 }
 ```
+## THIS IS MY TODO LIST
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
